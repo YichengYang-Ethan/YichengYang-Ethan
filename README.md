@@ -1,8 +1,10 @@
 # Yicheng (Ethan) Yang
 
-CS & Economics @ UIUC | Quantitative Research | ML for Finance
+CS & Economics @ UIUC | GPA: 4.0/4.0 | CFA Level II Candidate
 
 I build systematic tools for quantitative investing — risk analytics, signal generation, portfolio visualization, and ML-driven alpha research.
+
+[Resume (PDF)](./Yicheng_Yang_Resume.pdf)
 
 ---
 
