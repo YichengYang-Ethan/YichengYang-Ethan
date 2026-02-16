@@ -31,9 +31,10 @@ My open-source projects form a cohesive quantitative investment system:
                         │          ML / Research               │
                         │                                      │
                         │  crypto-return-prediction (LightGBM) │
+                        │  ESG-Stock-Prediction (Random Forest)│
                         │  Feature engineering with RSI, MACD, │
-                        │  Bollinger Bands, cross-sectional    │
-                        │  ranking, time-series CV             │
+                        │  Bollinger Bands, ESG factors,       │
+                        │  cross-sectional ranking             │
                         └──────────────────────────────────────┘
 ```
 
@@ -55,6 +56,7 @@ My open-source projects form a cohesive quantitative investment system:
 | Project | Description |
 |---------|-------------|
 | [**crypto-return-prediction**](https://github.com/YichengYang-Ethan/crypto-return-prediction-kaggle) | 24-hour crypto return prediction for 355 assets — LightGBM ensemble with time-series cross-validation, momentum/volatility/cross-sectional feature engineering aligned with clawdfolio's indicator framework |
+| [**ESG-Driven-Stock-Value-Prediction**](https://github.com/YichengYang-Ethan/ESG-Driven-Stock-Value-Prediction) | Stock value prediction using ESG factors — Random Forest with walk-forward backtesting, combining alternative data (ESG scores) with momentum/trend indicators |
 
 ---
 
@@ -63,7 +65,7 @@ My open-source projects form a cohesive quantitative investment system:
 - **Risk & Portfolio Analytics** — VaR, CVaR, Sharpe, Beta, drawdown analysis, HHI concentration
 - **Options** — Covered call & cash-secured put lifecycle management, Greeks-based guardrails
 - **Signal Generation** — RSI, SMA/EMA, Bollinger Bands, 200-DMA deviation percentile
-- **ML for Finance** — LightGBM, time-series CV, cross-sectional ranking, feature engineering
+- **ML for Finance** — LightGBM, Random Forest, time-series CV, cross-sectional ranking, ESG alternative data, feature engineering
 - **Infrastructure** — Multi-broker API integration, automated alerting, CI/CD pipelines
 
 ---
