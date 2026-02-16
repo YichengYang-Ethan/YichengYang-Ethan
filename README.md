@@ -48,13 +48,13 @@ Building systematic tools for quantitative investing — risk analytics, signal 
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YichengYang-Ethan/YichengYang-Ethan/output/profile-summary-card-output/0-profile-details.svg" />
+  <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" />
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YichengYang-Ethan/YichengYang-Ethan/output/profile-summary-card-output/1-repos-per-language.svg" width="400" />
-  <img src="https://raw.githubusercontent.com/YichengYang-Ethan/YichengYang-Ethan/output/profile-summary-card-output/3-stats.svg" width="400" />
+  <img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" width="400" />
+  <img src="./profile-summary-card-output/github_dark/3-stats.svg" width="400" />
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YichengYang-Ethan/YichengYang-Ethan/output/profile-summary-card-output/2-most-commit-language.svg" width="400" />
-  <img src="https://raw.githubusercontent.com/YichengYang-Ethan/YichengYang-Ethan/output/profile-summary-card-output/4-productive-time.svg" width="400" />
+  <img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" width="400" />
+  <img src="./profile-summary-card-output/github_dark/4-productive-time.svg" width="400" />
 </p>
