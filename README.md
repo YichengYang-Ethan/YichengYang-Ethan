@@ -1,35 +1,53 @@
-# Yicheng (Ethan) Yang
+## Yicheng (Ethan) Yang
 
-CS & Economics @ UIUC | GPA: 4.0/4.0 | CFA Level II Candidate
+**CS & Economics @ UIUC | GPA: 4.0/4.0 | CFA Level II Candidate**
 
-I build systematic tools for quantitative investing — risk analytics, signal generation, portfolio visualization, and ML-driven alpha research.
-
-[Resume (PDF)](./Yicheng_Yang_Resume.pdf)
+Building systematic tools for quantitative investing — risk analytics, signal generation, portfolio visualization, and ML-driven alpha research.
 
 ---
 
 ### Projects
 
-**Core Engine**
+| Project | Description | Stack | Links |
+|---------|-------------|-------|-------|
+| [clawdfolio](https://github.com/YichengYang-Ethan/clawdfolio) | Quantitative portfolio toolkit — multi-broker aggregation, VaR/Sharpe/Beta analytics, options lifecycle management, 20+ automated workflows | Python, pandas, yfinance | [![PyPI](https://img.shields.io/pypi/v/clawdfolio.svg)](https://pypi.org/project/clawdfolio/) |
+| [investment-dashboard](https://github.com/YichengYang-Ethan/investment-dashboard) | Interactive portfolio visualization — P&L tracking, holdings analysis, risk radar, dark-mode fintech UI | React, TypeScript, Recharts | [Live Demo](https://yichengyang-ethan.github.io/investment-dashboard/) |
+| [QQQ-200D-Deviation-Dashboard](https://github.com/YichengYang-Ethan/QQQ-200D-Deviation-Dashboard) | Market timing tool — 200-day MA deviation with historical percentile ranking and risk-level signals | React, TypeScript, Recharts | [Live Demo](https://yichengyang-ethan.github.io/QQQ-200D-Deviation-Dashboard/) |
+| [crypto-return-prediction](https://github.com/YichengYang-Ethan/crypto-return-prediction-kaggle) | 24-hour crypto return prediction using LightGBM ensemble and time-series CV across 355 assets | Python, LightGBM, scikit-learn | HKU Web3 Quant |
+| [ESG-Driven-Stock-Value-Prediction](https://github.com/YichengYang-Ethan/ESG-Driven-Stock-Value-Prediction) | Stock value prediction using ESG factors — Random Forest with walk-forward backtesting, 15% accuracy lift | Python, scikit-learn, pandas | Undergraduate Research |
 
-- [**clawdfolio**](https://github.com/YichengYang-Ethan/clawdfolio) — Production AI portfolio monitor. Multi-broker sync (Longport, Moomoo), risk metrics (VaR, Sharpe, Beta, Max Drawdown), options strategy playbook, 20+ automated finance workflows.
+### Architecture
 
-**Visualization**
-
-- [**investment-dashboard**](https://github.com/YichengYang-Ethan/investment-dashboard) — React/TypeScript portfolio dashboard with real-time P&L tracking, holdings analysis, and risk radar. Frontend layer for clawdfolio.
-- [**QQQ-200D-Deviation-Dashboard**](https://github.com/YichengYang-Ethan/QQQ-200D-Deviation-Dashboard) — Market timing tool monitoring 200-day MA deviation with historical percentile ranking.
-
-**ML Research**
-
-- [**crypto-return-prediction**](https://github.com/YichengYang-Ethan/crypto-return-prediction-kaggle) — 24-hour crypto return prediction for 355 assets. LightGBM ensemble, time-series CV, momentum/volatility feature engineering. HKU Web3 Quant Competition.
-- [**ESG-Driven-Stock-Value-Prediction**](https://github.com/YichengYang-Ethan/ESG-Driven-Stock-Value-Prediction) — Stock value prediction using ESG factors. Random Forest with walk-forward backtesting.
-
----
+```
+         ┌──────────────────────────┐
+         │   ML Research Layer      │
+         │  crypto-prediction       │
+         │  ESG-prediction          │
+         └────────────┬─────────────┘
+                      │ research → alert thresholds
+         ┌────────────▼─────────────┐
+         │     clawdfolio           │
+         │  brokers · risk · alerts │
+         └────────────┬─────────────┘
+                      │ JSON data feed
+         ┌────────────▼─────────────┐
+         │   Visualization Layer    │
+         │  investment-dashboard    │
+         │  QQQ-200D-Dashboard     │
+         └──────────────────────────┘
+```
 
 ### Technical Focus
 
-- **Risk & Portfolio** — VaR, CVaR, Sharpe, Beta, Max Drawdown, HHI concentration
-- **Options** — Covered call & cash-secured put lifecycle, Greeks-based guardrails
-- **Signal Generation** — RSI, SMA/EMA, Bollinger Bands, 200-DMA deviation
-- **ML for Finance** — LightGBM, Random Forest, time-series CV, ESG alternative data
-- **Stack** — Python, TypeScript, React, pandas, scikit-learn, GitHub Actions
+- **Risk Metrics**: VaR, CVaR, Sharpe Ratio, Beta, Max Drawdown, HHI
+- **Technical Analysis**: RSI, SMA/EMA, Bollinger Bands, 200-DMA deviation
+- **Options**: Greeks, chain analysis, Covered Call / Sell Put lifecycle management
+- **ML**: LightGBM, Random Forest, time-series CV, feature engineering
+- **Stack**: Python, TypeScript, React, pandas, scikit-learn, GitHub Actions
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YichengYang-Ethan&show_icons=true&theme=default&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YichengYang-Ethan&layout=compact&theme=default&hide_border=true&langs_count=8" height="165" />
+</p>
