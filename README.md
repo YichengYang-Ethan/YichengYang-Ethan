@@ -48,6 +48,13 @@ Building systematic tools for quantitative investing — risk analytics, signal 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YichengYang-Ethan&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YichengYang-Ethan&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="165" />
+  <img src="https://raw.githubusercontent.com/YichengYang-Ethan/YichengYang-Ethan/output/profile-summary-card-output/0-profile-details.svg" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YichengYang-Ethan/YichengYang-Ethan/output/profile-summary-card-output/1-repos-per-language.svg" width="400" />
+  <img src="https://raw.githubusercontent.com/YichengYang-Ethan/YichengYang-Ethan/output/profile-summary-card-output/3-stats.svg" width="400" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YichengYang-Ethan/YichengYang-Ethan/output/profile-summary-card-output/2-most-commit-language.svg" width="400" />
+  <img src="https://raw.githubusercontent.com/YichengYang-Ethan/YichengYang-Ethan/output/profile-summary-card-output/4-productive-time.svg" width="400" />
 </p>
