@@ -2,6 +2,10 @@
 
 **CS & Economics @ UIUC** · Building quant tooling: multi-broker portfolio analytics, risk metrics, and interactive dashboards (Python + TS/React).
 
+Seeking quantitative research and fintech roles.
+
+**Contact**: [yy85@illinois.edu](mailto:yy85@illinois.edu) · [LinkedIn](https://linkedin.com/in/ethan85) · [Resume (PDF)](./Yicheng_Yang_Resume.pdf)
+
 ---
 
 ### Projects
