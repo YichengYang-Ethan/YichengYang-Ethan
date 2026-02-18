@@ -10,7 +10,7 @@
 
 | Project | Description |
 |---------|-------------|
-| [Portfolio Analytics Toolkit (clawdfolio)](https://github.com/YichengYang-Ethan/clawdfolio) | PyPI-published CLI for multi-broker portfolio analytics — GARCH volatility forecasting, Fama-French factor exposure, leverage-adjusted stress testing, portfolio Greeks aggregation, VaR/CVaR, and automated alerts |
+| [Portfolio Analytics Toolkit (clawdfolio)](https://github.com/YichengYang-Ethan/clawdfolio) | PyPI-published CLI for multi-broker portfolio analytics — GARCH volatility forecasting, Fama-French factor exposure, leverage-adjusted stress testing, portfolio Greeks aggregation, VaR/CVaR, and automated alerts · [![PyPI](https://img.shields.io/pypi/v/clawdfolio.svg)](https://pypi.org/project/clawdfolio/) |
 
 ### Research & Tools
 
@@ -30,9 +30,12 @@
 ### Skills
 
 **Languages**: Python, TypeScript
-**Quant / ML**: NumPy, pandas, scipy, scikit-learn, LightGBM, arch (GARCH), yfinance
-**Frontend**: React, Recharts, Tailwind CSS, Vite
-**Finance**: Options Greeks, VaR/CVaR, Fama-French factors, volatility modeling, stress testing, portfolio optimization
+
+**Quant / ML**: NumPy, pandas, scipy, scikit-learn, LightGBM, arch (GARCH), statsmodels
+
+**Visualization**: React, Recharts, Tailwind CSS, Vite
+
+**Finance**: Options Greeks, VaR/CVaR, Fama-French factors, GARCH, volatility modeling, stress testing, portfolio optimization
 
 ---
 
