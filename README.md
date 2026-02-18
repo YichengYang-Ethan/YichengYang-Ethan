@@ -17,7 +17,7 @@
 | Project | Description |
 |---------|-------------|
 | [Vol Regime Trading Toolkit](https://github.com/YichengYang-Ethan/vol-regime-toolkit) | IV percentile tracking, vol risk premium scanner, GARCH forecasting, and correlation regime monitor for systematic options selling |
-| [Market Bubble Index Dashboard](https://github.com/YichengYang-Ethan/Market-Bubble-Index-Dashboard) | Composite bubble risk index from 6 weighted indicators (QQQ deviation, VIX, SKEW, sector breadth, credit spread, yield curve) — daily auto-updated via GitHub Actions · [**Live**](https://yichengyang-ethan.github.io/Market-Bubble-Index-Dashboard/) |
+| [Market Bubble Index Dashboard](https://github.com/YichengYang-Ethan/Market-Bubble-Index-Dashboard) | Composite bubble risk index from 7 weighted indicators (QQQ deviation, VIX, SKEW, CAPE valuation, sector breadth, credit spread, yield curve) across sentiment, liquidity, and valuation dimensions — 10-year rolling data, daily auto-updated via GitHub Actions · [**Live**](https://yichengyang-ethan.github.io/Market-Bubble-Index-Dashboard/) |
 
 ### Applied ML
 
