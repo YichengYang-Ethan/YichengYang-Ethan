@@ -17,7 +17,7 @@
 | Project | Description |
 |---------|-------------|
 | [Vol Regime Trading Toolkit](https://github.com/YichengYang-Ethan/vol-regime-toolkit) | IV percentile tracking, vol risk premium scanner, GARCH forecasting, and correlation regime monitor for systematic options selling |
-| [Market Timing Dashboard (QQQ SMA-200)](https://github.com/YichengYang-Ethan/QQQ-200D-Deviation-Dashboard) | SMA-200 deviation index with statistically validated forward return analysis (t-tested quintile buckets) |
+| [Market Bubble Index Dashboard](https://github.com/YichengYang-Ethan/Market-Bubble-Index-Dashboard) | Composite bubble risk index from 6 weighted indicators (QQQ deviation, VIX, SKEW, sector breadth, credit spread, yield curve) — daily auto-updated via GitHub Actions · [**Live**](https://yichengyang-ethan.github.io/Market-Bubble-Index-Dashboard/) |
 
 ### Applied ML
 
@@ -31,6 +31,7 @@
 
 **Languages**: Python, TypeScript
 **Quant / ML**: NumPy, pandas, scipy, scikit-learn, LightGBM, arch (GARCH), yfinance
+**Frontend**: React, Recharts, Tailwind CSS, Vite
 **Finance**: Options Greeks, VaR/CVaR, Fama-French factors, volatility modeling, stress testing, portfolio optimization
 
 ---
