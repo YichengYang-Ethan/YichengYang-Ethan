@@ -23,10 +23,5 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![PyPI](https://img.shields.io/badge/PyPI-3775A9?style=flat&logo=pypi&logoColor=white)
 
----
-
-<img src="./profile-summary-card-output/github_dark/0-profile-details.svg" />
-
-<img src="./profile-summary-card-output/github_dark/3-stats.svg" width="49%" /> <img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" width="49%" />
 
 </div>
