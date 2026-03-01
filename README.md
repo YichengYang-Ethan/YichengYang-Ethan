@@ -8,7 +8,7 @@
 
 🔬 Building quantitative tools for systematic trading & portfolio risk management
 
-📦 [`clawdfolio`](https://pypi.org/project/clawdfolio/) on PyPI · [Market Bubble Dashboard](https://yichengyang-ethan.github.io/Market-Bubble-Index-Dashboard/) live
+📦 [`clawdfolio`](https://pypi.org/project/clawdfolio/) on PyPI · [Market Bubble Dashboard](https://yichengyang-ethan.github.io/Market-Bubble-Index-Dashboard/) live · [Vibeathon](https://github.com/YichengYang-Ethan/vibeathon) @ HackIllinois 2026
 
 📄 [Resume](./Yicheng_Yang_Resume.pdf) · [LinkedIn](https://linkedin.com/in/ethan85) · [yy85@illinois.edu](mailto:yy85@illinois.edu)
 
