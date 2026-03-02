@@ -2,34 +2,26 @@
 
 ### Hey, I'm Ethan 👋
 
-**CS & Economics @ UIUC | On-Chain Agents · Quantitative Finance · ML**
+**CS & Economics @ UIUC | Quantitative Research | ML for Finance**
 
 [![GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/YichengYang-Ethan?cardType=level-alternate&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
 
-</div>
+🔬 Building quantitative tools for systematic trading & portfolio risk management
 
-### Featured Projects
+📦 [`oracle3`](https://github.com/YichengYang-Ethan/oracle3) on-chain agent · [`clawdfolio`](https://pypi.org/project/clawdfolio/) on PyPI · [Market Bubble Dashboard](https://yichengyang-ethan.github.io/Market-Bubble-Index-Dashboard/) live · [Vibeathon](https://github.com/vibe-hackathon) @ HackIllinois 2026
 
-| Project | Description | |
-|---------|-------------|---|
-| [**oracle3**](https://github.com/YichengYang-Ethan/oracle3) | Autonomous on-chain agent for Solana prediction markets | ![Stars](https://img.shields.io/github/stars/YichengYang-Ethan/oracle3?style=flat) ![Python](https://img.shields.io/github/languages/top/YichengYang-Ethan/oracle3?style=flat) |
-| [**clawdfolio**](https://github.com/YichengYang-Ethan/clawdfolio) | Multi-broker portfolio analytics on PyPI | ![Stars](https://img.shields.io/github/stars/YichengYang-Ethan/clawdfolio?style=flat) ![Python](https://img.shields.io/github/languages/top/YichengYang-Ethan/clawdfolio?style=flat) |
-| [**vibeathon**](https://github.com/YichengYang-Ethan/vibeathon) | LLM hackathon simulator with multi-agent collaboration | ![Stars](https://img.shields.io/github/stars/YichengYang-Ethan/vibeathon?style=flat) ![Python](https://img.shields.io/github/languages/top/YichengYang-Ethan/vibeathon?style=flat) |
-
-<div align="center">
+📄 [Resume](./Yicheng_Yang_Resume.pdf) · [LinkedIn](https://linkedin.com/in/ethan85) · [yy85@illinois.edu](mailto:yy85@illinois.edu)
 
 ---
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Solana](https://img.shields.io/badge/Solana-9945FF?style=flat&logo=solana&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=flat)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Textual](https://img.shields.io/badge/Textual-2D2D2D?style=flat)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![PyPI](https://img.shields.io/badge/PyPI-3775A9?style=flat&logo=pypi&logoColor=white)
 
-📄 [Resume](./Yicheng_Yang_Resume.pdf) · [LinkedIn](https://linkedin.com/in/ethan85) · [yy85@illinois.edu](mailto:yy85@illinois.edu)
 
 </div>
