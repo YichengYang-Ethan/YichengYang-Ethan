@@ -20,12 +20,12 @@ An interconnected ecosystem of quantitative finance tools — from academic theo
 
 | Project | Description | Highlights |
 |---------|-------------|------------|
-| [`oracle3`](https://github.com/YichengYang-Ethan/oracle3) ⭐123 | Autonomous on-chain prediction market trading agent across Solana, Polymarket & Kalshi | 8 arbitrage strategies with formal probability invariants · Jito MEV protection · LLM + quant hybrid · live dashboard |
+| [`oracle3`](https://github.com/YichengYang-Ethan/oracle3) | Autonomous on-chain prediction market trading agent across Solana, Polymarket & Kalshi | 8 arbitrage strategies with formal probability invariants · Jito MEV protection · LLM + quant hybrid · live dashboard |
 | [`prediction-market-pricing`](https://github.com/YichengYang-Ethan/prediction-market-pricing) | Academic paper: *Pricing Prediction Markets — Risk Premiums, Incomplete Markets, and a Decomposition Framework* | Calibrated on **291K contracts across 6 platforms** · λ = 0.183 (p < 10⁻¹⁰) · first formal pricing framework for prediction markets |
 | [`coinjure`](https://github.com/ulab-uiuc/prediction-market-cli) | Agent-native prediction market trading CLI — discover, backtest & deploy strategies | ~50 parallel strategies · Kelly allocation · spread trading with structural pair detection · [PyPI](https://pypi.org/project/coinjure/) |
 | [`Market-Bubble-Index`](https://github.com/YichengYang-Ethan/Market-Bubble-Index-Dashboard) | 7-indicator composite bubble risk dashboard with drawdown probability model | AUC 0.802 for >10% drawdown prediction · Lasso + Bayesian + EVT 3-layer model · [Live Dashboard](https://yichengyang-ethan.github.io/Market-Bubble-Index-Dashboard/) |
-| [`QuantPath`](https://github.com/MasterAgentAI/QuantPath) ⭐32 | Open-source MFE application toolkit — profile eval, school ranking & admission prediction | Logistic regression on **6,984 admission records** · 28 programs · portfolio optimizer · Claude-powered advising |
-| [`clawdfolio`](https://github.com/YichengYang-Ethan/clawdfolio) ⭐9 | Production portfolio toolkit — multi-broker aggregation, risk analytics & options | Fama-French 3-factor · GARCH · covered call strategy (83% win rate, +3.0% α) · [PyPI](https://pypi.org/project/clawdfolio/) |
+| [`QuantPath`](https://github.com/MasterAgentAI/QuantPath) | Open-source MFE application toolkit — profile eval, school ranking & admission prediction | Logistic regression on **6,984 admission records** · 28 programs · portfolio optimizer · Claude-powered advising |
+| [`clawdfolio`](https://github.com/YichengYang-Ethan/clawdfolio) | Production portfolio toolkit — multi-broker aggregation, risk analytics & options | Fama-French 3-factor · GARCH · covered call strategy (83% win rate, +3.0% α) · [PyPI](https://pypi.org/project/clawdfolio/) |
 
 <details>
 <summary><b>🔗 How They Connect</b></summary>
