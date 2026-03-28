@@ -31,27 +31,22 @@ An interconnected ecosystem of quantitative finance tools — from academic theo
 <summary><b>🔗 How They Connect</b></summary>
 
 ```
-RESEARCH       prediction-market-pricing
-               Wang Transform MLE · 291K contracts · 6 platforms
-               ┃
-               ┃  calibrated λ per platform / category / contract
-               ▼
-PRICING        oracle3/pricing
-               Real-time fair value · Model Greeks · Kelly sizing
-               ┃
-          ┌────┸────────────────────┐
-          ▼                         ▼
-EXECUTION oracle3                coinjure
-          10 strategies            ~50 parallel strategies
-          3 exchanges              Discover → backtest → deploy
-          On-chain (Solana)        LLM-enhanced sizing
-          ┃                         ┃
-          └────────┰────────────────┘
-                   ▼
-RISK       clawdfolio + Market-Bubble-Index
-           Correlation-aware limits · Bubble regime detection
-           Portfolio analytics · Macro alerts
+prediction-market-pricing                        oracle3
+ (Wang Transform MLE,                             (trading agent)
+  291K contracts, 6 platforms)                          │
+         │                                              │
+         │  λ=0.166, covariate betas,            10 strategies consume
+         │  time-varying decay model              fair value signals
+         │                                              │
+         └──────────► oracle3/pricing ◄─────────────────┘
+                      (deployed pricing engine:
+                       exact paper coefficients,
+                       model Greeks, Kelly sizing)
 ```
+
+`coinjure` shares the prediction market domain and relation-discovery infrastructure with `oracle3` — both trade Polymarket & Kalshi, but `coinjure` focuses on strategy lifecycle management while `oracle3` focuses on on-chain execution.
+
+`clawdfolio` and `Market-Bubble-Index` are independent projects in equities/options — Fama-French factor analysis, GARCH, EVT drawdown modeling — separate from the prediction market stack.
 
 </details>
 
