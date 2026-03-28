@@ -2,7 +2,7 @@
 
 **CS + Statistics + Economics @ UIUC (4.0 GPA) · Prediction Market Pricing · Autonomous Trading**
 
-Research: Wang Transform applied to prediction markets — 291,309 contracts across 6 platforms, submitted to FMA 2026 Annual Meeting.
+Research: Wang Transform applied to prediction markets — risk premium decomposition across 291,309 contracts and 6 platforms.
 
 [Resume](./Yicheng_Yang_Resume.pdf) · [LinkedIn](https://linkedin.com/in/ethan85) · [yy85@illinois.edu](mailto:yy85@illinois.edu) · [Blog](https://yichengyang-ethan.github.io/)
 
