@@ -27,19 +27,30 @@ An interconnected ecosystem of quantitative finance tools — from academic theo
 | [`QuantPath`](https://github.com/MasterAgentAI/QuantPath) | Open-source MFE application toolkit — profile eval, school ranking & admission prediction | Logistic regression on **6,984 admission records** · 28 programs · portfolio optimizer · Claude-powered advising |
 | [`clawdfolio`](https://github.com/YichengYang-Ethan/clawdfolio) | Production portfolio toolkit — multi-broker aggregation, risk analytics & options | Fama-French 3-factor · GARCH · covered call strategy (83% win rate, +3.0% α) · [PyPI](https://pypi.org/project/clawdfolio/) |
 
-<details>
+<details open>
 <summary><b>🔗 How They Connect</b></summary>
 
 ```
-prediction-market-pricing (Theory — Wang Transform MLE, λ estimates, covariate model)
-    │
-    ├── oracle3/pricing (Engine — real-time fair value, model Greeks, Kelly sizing)
-    │       └── oracle3 (Execution — 10 strategies, 3 exchanges, on-chain)
-    │
-    └── coinjure (Strategy lifecycle — discovery → backtest → deploy → retire)
-
-Market-Bubble-Index (Risk signal — bubble temperature, crash probability)
-    └── clawdfolio (Action — covered call timing → +3.0% annualized alpha)
+RESEARCH       prediction-market-pricing
+               Wang Transform MLE · 291K contracts · 6 platforms
+               ┃
+               ┃  calibrated λ per platform / category / contract
+               ▼
+PRICING        oracle3/pricing
+               Real-time fair value · Model Greeks · Kelly sizing
+               ┃
+          ┌────┸────────────────────┐
+          ▼                         ▼
+EXECUTION oracle3                coinjure
+          10 strategies            ~50 parallel strategies
+          3 exchanges              Discover → backtest → deploy
+          On-chain (Solana)        LLM-enhanced sizing
+          ┃                         ┃
+          └────────┰────────────────┘
+                   ▼
+RISK       clawdfolio + Market-Bubble-Index
+           Correlation-aware limits · Bubble regime detection
+           Portfolio analytics · Macro alerts
 ```
 
 </details>
