@@ -12,7 +12,7 @@ Research: Wang Transform applied to prediction markets — 291,309 contracts acr
 
 | Project | Description |
 |---------|-------------|
-| [prediction-market-pricing](https://github.com/YichengYang-Ethan/prediction-market-pricing) | Working paper replication package — Wang Transform MLE, pooled $\hat{\lambda} = 0.183$ ($p < 10^{-15}$), 6 platforms |
+| [prediction-market-pricing](https://github.com/YichengYang-Ethan/prediction-market-pricing) | Working paper replication package — Wang Transform MLE, pooled $\hat{\lambda} = 0.183$ ($p < 10^{-15}$), 6 platforms, [blog](https://yichengyang-ethan.github.io/) |
 | [oracle3](https://github.com/YichengYang-Ethan/oracle3) | Autonomous prediction market trading agent — 8 probability-axiom arbitrage + 2 model-driven strategies, 3 exchanges |
 | [clawdfolio](https://github.com/YichengYang-Ethan/clawdfolio) | Portfolio analytics toolkit on [PyPI](https://pypi.org/project/clawdfolio/) — Fama-French 3-factor, GARCH, covered call (83% win rate, +3.0% alpha) |
 | [Market-Bubble-Index](https://github.com/YichengYang-Ethan/Market-Bubble-Index-Dashboard) | Bubble detection model — 7-indicator composite index, Lasso + Bayesian + EVT ensemble (AUC 0.802), [live dashboard](https://yichengyang-ethan.github.io/Market-Bubble-Index-Dashboard/) |
