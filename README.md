@@ -4,7 +4,7 @@
 
 Research: Wang Transform applied to prediction markets — 291,309 contracts across 6 platforms, submitted to FMA 2026 Annual Meeting.
 
-[Resume](./Yicheng_Yang_Resume.pdf) · [LinkedIn](https://linkedin.com/in/ethan85) · [yy85@illinois.edu](mailto:yy85@illinois.edu)
+[Resume](./Yicheng_Yang_Resume.pdf) · [LinkedIn](https://linkedin.com/in/ethan85) · [yy85@illinois.edu](mailto:yy85@illinois.edu) · [Blog](https://yichengyang-ethan.github.io/)
 
 ---
 
