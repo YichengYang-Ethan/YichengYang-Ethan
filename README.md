@@ -18,7 +18,7 @@ Research: pricing prediction markets as incomplete markets — measure-selection
 | [cvxpy-finance](https://github.com/YichengYang-Ethan/cvxpy-finance) | Convex portfolio-optimization cookbook — DPP-compliant mean-variance with transaction costs, Spinu risk parity (exponential cone), and Black-Litterman |
 | [holy-grail-tqqq](https://github.com/YichengYang-Ethan/holy-grail-tqqq) | 27-year leveraged-ETF rotation backtest, stress-tested with combinatorial purged cross-validation (López de Prado), deflated Sharpe, and a 7-check robustness suite |
 | [oracle3](https://github.com/YichengYang-Ethan/oracle3) | Multi-venue prediction-market trading engine (633 tests, full CI) deploying the paper's exact Wang-transform pricing model — paper-traded across Kalshi · Polymarket · Solana |
-| [Market-Bubble-Index](https://github.com/YichengYang-Ethan/Market-Bubble-Index-Dashboard) | 7-indicator composite bubble-risk index with a Bayesian drawdown model and purged walk-forward validation, [live dashboard](https://yichengyang-ethan.github.io/Market-Bubble-Index-Dashboard/) |
+| [market-predict](https://github.com/YichengYang-Ethan/market-predict) | Live SPY/QQQ options-flow dashboard — dealer gamma-flip (net GEX zero-crossing), max pain, and Kalshi + Polymarket implied distributions aggregated from 18 free feeds, [live on HF Spaces](https://ethanyang85-market-predict.hf.space/) |
 | [clawdfolio](https://github.com/YichengYang-Ethan/clawdfolio) | Multi-broker portfolio analytics on [PyPI](https://pypi.org/project/clawdfolio/) — Fama-French 3-factor, GARCH, options Greeks, and a covered-call backtester (544 tests) |
 
 #### Theory-to-Production Pipeline
@@ -30,7 +30,7 @@ prediction-market-pricing ──> oracle3/pricing ──> oracle3 strategies
 (MLE, covariate betas)        (fair value, Greeks)  (10 strategies, paper-traded)
 ```
 
-`coinjure` ([UIUC U-Lab](https://github.com/ulab-uiuc/prediction-market-cli), on [PyPI](https://pypi.org/project/coinjure/)) shares oracle3's prediction-market infrastructure. `clawdfolio`, `cvxpy-finance`, and `Market-Bubble-Index` are independent equity/options projects.
+`coinjure` ([UIUC U-Lab](https://github.com/ulab-uiuc/prediction-market-cli), on [PyPI](https://pypi.org/project/coinjure/)) shares oracle3's prediction-market infrastructure. `clawdfolio`, `cvxpy-finance`, and `market-predict` are independent projects.
 
 ---
 
