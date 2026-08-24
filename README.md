@@ -6,7 +6,7 @@ Research: pricing prediction markets as incomplete markets — measure-selection
 
 [Site](https://yichengyang-ethan.github.io/) · [Resume](./Yicheng_Yang_Resume.pdf) · [SSRN](https://ssrn.com/abstract=6468338) · [LinkedIn](https://linkedin.com/in/ethan85) · [yy85@illinois.edu](mailto:yy85@illinois.edu)
 
-**Open source**: GSoC 2026 @ PyMC (Streaming Variational Inference) · merged fixes to [CVXPY #3256](https://github.com/cvxpy/cvxpy/pull/3256) and [PyMC #882](https://github.com/pymc-devs/pymc-examples/pull/882)
+**Open source**: GSoC 2026 @ PyMC (Streaming Variational Inference) · [out-of-core minibatch ADVI on a financial tick stream](https://github.com/pymc-devs/pymc-examples/pull/892) · merged fixes to [PyMC #882](https://github.com/pymc-devs/pymc-examples/pull/882)
 
 ---
 
