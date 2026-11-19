@@ -2,7 +2,7 @@
 
 **CS + Statistics + Economics @ UIUC (4.0 GPA) · Quantitative Finance Research · GSoC 2026 @ PyMC · Founder, [Prediction@Illinois](https://prediction-illinois.github.io/)**
 
-Research: pricing prediction markets as incomplete markets — which pricing measure the market selects, and the calibration wedge it leaves. Sole-authored working paper, presented at RBFC 2026 (VU Amsterdam) and cited in *Economics Letters*: the Wang transform as a one-parameter selection rule, estimated by MLE on 291,309 resolved contracts across 6 platforms.
+Research: pricing prediction markets as incomplete markets — which pricing measure the market selects, and the calibration wedge it leaves. Sole-authored working paper, presented at RBFC 2026 (VU Amsterdam): the Wang transform as a one-parameter selection rule, estimated by MLE on 291,309 resolved contracts across 6 platforms.
 
 [Site](https://yichengyang-ethan.github.io/) · [SSRN](https://ssrn.com/abstract=6468338) · [LinkedIn](https://linkedin.com/in/ethan85) · [yy85@illinois.edu](mailto:yy85@illinois.edu)
 
