@@ -32,13 +32,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/YichengYang-Ethan/YichengYang-Ethan/main/profile-summary-card-output/synthwave/4-productive-time.svg)
-```
-
-    
